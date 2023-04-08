@@ -1,2 +1,2 @@
-readme ttest\
+readme ttest\ conflict dari budi
 hhasa 
